@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KucRe+5u/wl5WRSc6Z44BvhUo01QcmyuPgqXETejxd8x8gloNWy6K0IW2SNMM3aXfIShUa5gZMlTX8Yf7Avq3A==",
+  "success": true,
+  "projectFilePath": "/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/Procare.AddressValidation.Tester.csproj",
+  "expectedPackageFiles": [
+    "/Users/kalerampenthal/.nuget/packages/stylecop.analyzers/1.1.118/stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/bin/Debug/net6.0/Procare.AddressValidation.Tester
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/bin/Debug/net6.0/Procare.AddressValidation.Tester.deps.json
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/bin/Debug/net6.0/Procare.AddressValidation.Tester.runtimeconfig.json
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/bin/Debug/net6.0/Procare.AddressValidation.Tester.dll
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/bin/Debug/net6.0/Procare.AddressValidation.Tester.pdb
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.csproj.AssemblyReference.cache
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.AssemblyInfoInputs.cache
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.AssemblyInfo.cs
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.csproj.CoreCompileInputs.cache
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.dll
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/refint/Procare.AddressValidation.Tester.dll
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.pdb
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/Procare.AddressValidation.Tester.genruntimeconfig.cache
+/Users/kalerampenthal/Downloads/Procare.AddressValidation.Tester/obj/Debug/net6.0/ref/Procare.AddressValidation.Tester.dll
